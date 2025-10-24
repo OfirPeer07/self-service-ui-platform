@@ -5,7 +5,7 @@
 ## 1. רקע
 <p dir="rtl" align="right">
 <span dir="ltr">Self Service UI Assistant</span> היא שכבת עזר גרפית קלת־משקל הפועלת מעל
-<span dir="ltr">Kubernetes</span> ו־<span dir="ltr">Crossplane</span>.  
+<span dir="ltr">Kubernetes</span> ו־<span dir="ltr">Crossplane</span>.   
 המערכת לא נועדה להחליף פלטפורמות קיימות אלא להדגים כיצד ניתן להנגיש למפתחים פעולות תשתית  
 באופן אינטואיטיבי, פשוט וברור — ללא צורך בעריכת <span dir="ltr">YAML</span> ידנית או תלות מלאה בצוות  
 <span dir="ltr">DevOps</span>.
