@@ -52,7 +52,7 @@
 | **Sandboxing** | ניסויים לא מבוקרים | לפתח סביבות dev זמניות ונפרדות |
 
 ---
-
+    <div dir="rtl">
 ## 5️⃣ מקורות מידע מומלצים
 - **Reddit** – קהילות `r/devops`, `r/kubernetes`, `r/gitops`, `r/sre`
 - **Stack Overflow** – שאלות נפוצות על Kubernetes ו־DevOps
@@ -60,7 +60,7 @@
 - **Medium / Dev.to** – מאמרים על Platform Engineering ו־UX
 - **LinkedIn / X (Twitter)** – שיחות מהנדסים מהשטח
 - **CNCF Slack / Discord** – קהילות Cloud Native פעילות
-
+    </div>
 ---
 
 ## 6️⃣ שאלות מנחות למחקר או ראיונות
