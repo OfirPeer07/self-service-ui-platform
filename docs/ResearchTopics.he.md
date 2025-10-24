@@ -52,15 +52,16 @@
 | **Sandboxing** | ניסויים לא מבוקרים | לפתח סביבות dev זמניות ונפרדות |
 
 ---
-    <div dir="rtl">
+
 ## 5️⃣ מקורות מידע מומלצים
-- **Reddit** – קהילות `r/devops`, `r/kubernetes`, `r/gitops`, `r/sre`
-- **Stack Overflow** – שאלות נפוצות על Kubernetes ו־DevOps
-- **GitHub Issues / Discussions** – Crossplane, ArgoCD, Flux
-- **Medium / Dev.to** – מאמרים על Platform Engineering ו־UX
-- **LinkedIn / X (Twitter)** – שיחות מהנדסים מהשטח
-- **CNCF Slack / Discord** – קהילות Cloud Native פעילות
-    </div>
+
+<p dir="rtl" align="right">🔹 <b>Reddit</b> – קהילות <code>r/devops</code>, <code>r/kubernetes</code>, <code>r/gitops</code>, <code>r/sre</code></p>
+<p dir="rtl" align="right">🔹 <b>Stack Overflow</b> – שאלות נפוצות על <b>Kubernetes</b> ו־<b>DevOps</b></p>
+<p dir="rtl" align="right">🔹 <b>GitHub Issues / Discussions</b> – פרויקטים כמו <b>Crossplane</b>, <b>ArgoCD</b>, <b>Flux</b></p>
+<p dir="rtl" align="right">🔹 <b>Medium / Dev.to</b> – מאמרים על <b>Platform Engineering</b> ו־<b>UX</b></p>
+<p dir="rtl" align="right">🔹 <b>LinkedIn / X (Twitter)</b> – שיחות של מהנדסים מהשטח</p>
+<p dir="rtl" align="right">🔹 <b>CNCF Slack / Discord</b> – קהילות פעילות של <b>Cloud Native</b></p>
+
 ---
 
 ## 6️⃣ שאלות מנחות למחקר או ראיונות
