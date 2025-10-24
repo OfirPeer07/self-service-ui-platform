@@ -25,13 +25,14 @@
 
 ## 🔍 מתודולוגיה
 
-### 1️⃣ סקירת קהילה ומקורות
-- **Reddit** – קהילות כמו `r/devops`, `r/kubernetes`, `r/gitops`, `r/sre`
-- **Stack Overflow** – שאלות על CI/CD, IaC, RBAC, Terraform, Argo ועוד
-- **GitHub Discussions** – בפרויקטים כמו Crossplane, ArgoCD, Terraform, Flux
-- **Medium / Dev.to / Hacker News** – מאמרים ותובנות מהקהילה
-- **CNCF Slack / Discord**
-- **LinkedIn / X (Twitter)** – חוויות של מפתחים ומהנדסי DevOps
+## 1️⃣ סקירת קהילה ומקורות
+<p dir="rtl" align="right">🔹 <b>Reddit</b> – קהילות כמו <code>r/devops</code>, <code>r/kubernetes</code>, <code>r/gitops</code>, <code>r/sre</code></p>
+<p dir="rtl" align="right">🔹 <b>Stack Overflow</b> – שאלות נפוצות על <b>CI/CD</b>, <b>IaC</b>, <b>RBAC</b>, <b>Terraform</b>, <b>Argo</b> ועוד</p>
+<p dir="rtl" align="right">🔹 <b>GitHub Discussions</b> – בפרויקטים כמו <b>Crossplane</b>, <b>ArgoCD</b>, <b>Terraform</b>, <b>Flux</b></p>
+<p dir="rtl" align="right">🔹 <b>Medium / Dev.to / Hacker News</b> – מאמרים ותובנות מהקהילה</p>
+<p dir="rtl" align="right">🔹 <b>CNCF Slack / Discord</b> – קהילות פעילות ודיונים טכניים</p>
+<p dir="rtl" align="right">🔹 <b>LinkedIn / X (Twitter)</b> – חוויות ודוגמאות של מפתחים ומהנדסי <b>DevOps</b></p>
+
 
 ### 2️⃣ ראיונות
 ראיונות קצרים (15–30 דקות) עם:
